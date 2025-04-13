@@ -25,7 +25,7 @@ public class LoginTest
 		
 		System.out.println("Adding one line for github-Pratik");
 		System.out.println("actual project");
-		System.out.println("Komal");
+		System.out.println("Adding 1 line - Komal");
 		
 	}
    
