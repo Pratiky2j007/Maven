@@ -28,7 +28,7 @@ public class LoginTest
 		System.out.println("Adding one line-Neelam ");
 		System.out.println("Adding one line-puja ");
 		System.out.println("Adding one line - Pratik2");
-		System.out.println("Adding one line - Pratik4");
+		System.out.println("Adding one line - Pratik2");
 
 
 	}
